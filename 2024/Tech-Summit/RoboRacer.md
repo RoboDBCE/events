@@ -6,7 +6,7 @@ We'd recommend you to go through the **_[RULEBOOK](./roboracer-rulebook.pdf)_**.
 
 ## Registration
 
-To participate in the Robo Racer event, please register by clicking **_[HERE](https://example.com/registration)_**.
+To participate in the Robo Racer event, please register by clicking **_[HERE](https://docs.google.com/forms/d/e/1FAIpQLSd0TF2WpGpEA8FTPQRfssMYNYU8X9FlB8nFUBhjw-EKV1vGnQ/viewform?usp=sf_link)_**.
 
 ## Event Details
 
