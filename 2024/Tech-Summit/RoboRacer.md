@@ -16,16 +16,16 @@ To participate in the Robo Racer event, please register by clicking **_[HERE](ht
 ## Rules and Regulations
 
 - All robots must comply with the size and weight restrictions specified in the [rulebook](./roboracer-rulebook.pdf).
-- Each team can have 3 or more members.
+- Each team can have 2 or more members.
 - Any robot found to be in violation of the rules will be disqualified.
 
-<!-- ## Prizes
+## Prizes
 
 The top three teams will receive the following prizes:
 
-- 1st Place: $PRIZE_1$
-- 2nd Place: $PRIZE_2$
-- 3rd Place: $PRIZE_3$ -->
+- 1st Place: **Rs. 6,000**
+- 2nd Place: **Rs. 4,000**
+- 3rd Place: **Rs. 2,000**
 
 ## Contact Us
 
