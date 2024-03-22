@@ -16,7 +16,7 @@ To participate in the Robo Racer event, please register by clicking **_[HERE](ht
 ## Rules and Regulations
 
 - All robots must comply with the size and weight restrictions specified in the [rulebook](./roboracer-rulebook.pdf).
-- Each team can have 2 or more members.
+- Each team can have maximum 4 members.
 - Any robot found to be in violation of the rules will be disqualified.
 
 ## Prizes
