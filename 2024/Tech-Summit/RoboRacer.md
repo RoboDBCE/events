@@ -2,7 +2,7 @@
 
 Welcome to the Robo Racer event! Get ready for an adrenaline-filled competition where robots race against each other.
 
-We'd recommend you to go through the **_[RULEBOOK](./roboracer-rulebook.pdf)_**.
+We'd recommend you to go through the **_[RULEBOOK](https://drive.google.com/file/d/10jwWaBoJxe3LjufoMTKxkMsYvDoB8D9n/view?usp=drivesdk)_**.
 
 ## Registration
 
